@@ -1,7 +1,7 @@
 {
   "bookingOptions": [
     {
-      "bookingDate": "2019-06-01",      
+      "bookingDate": "2019-08-01",      
       "productOptionId": "V28Hi3Tah8ONH",
       "quantities": [
         {
