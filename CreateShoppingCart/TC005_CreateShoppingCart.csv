@@ -1,0 +1,13 @@
+Response_Assertion,pp-message,pp-code
+400,Booking date is required,BAD_REQUEST
+400,Booking date is required,BAD_REQUEST
+400,Invalid booking date(yyyy-mm-dd),BAD_REQUEST
+400,Invalid booking date(yyyy-mm-dd),BAD_REQUEST
+400,Invalid booking date(yyyy-mm-dd),BAD_REQUEST
+400,We are unable to confirm availability for this product. Please try another tour or activity.,PRODUCT_NOT_AVAILABLE
+400,We are unable to confirm availability for this product. Please try another tour or activity.,PRODUCT_NOT_AVAILABLE
+
+
+
+
+

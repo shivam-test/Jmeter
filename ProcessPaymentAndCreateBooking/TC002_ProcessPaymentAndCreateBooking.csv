@@ -1,0 +1,22 @@
+productId,productOptionId,tokenizedNumber,Response_Assertion,pp-message,pp-code
+V28Hi3un7up77,V28Hi3Ho7,,400,Payment details is required,BAD_REQUEST
+V28Hi3un7up77,V28Hi3Ho7,,400,Payment details is required,BAD_REQUEST
+V28Hi3un7up77,V28Hi3Ho7,tok_visa111,500,We are unable to process your request at this time. Please try again later.,INTERNAL_SERVER_ERROR
+V28Hi3un7up77,V28Hi3Ho7,tok_visa,200,Success,SUCCESS,
+V28Hi3un7up77,V28Hi3Ho7,tok_amex,200,Success,SUCCESS,
+V28Hi3un7up77,V28Hi3Ho7,tok_mastercard,200,Success,SUCCESS,
+V28Hi3un7up77,V28Hi3Ho7,tok_chargeDeclinedProcessingError,400,We are unable to process payment with this credit card. Please ensure all information is valid or try a different card.,UNKNOWN_PAYMENT_GATEWAY_ERROR,
+V28Hi3un7up77,V28Hi3Ho7,tok_chargeDeclinedExpiredCard,400,Card expired. Please try with another card,CARD_EXPIRED,
+V28Hi3un7up77,V28Hi3Ho7,tok_chargeDeclinedIncorrectCvc,400,We are unable to process payment with this credit card. Please confirm your credit card and CVV numbers are valid or try a different card.,CARD_CVV_FAILURE,
+V28Hi3un7up77,V28Hi3Ho7,tok_chargeDeclinedFraudulent,400,We are unable to process payment with this credit card. Please try a different card,CARD_DECLINED,
+V28Hi3un7up77,V28Hi3Ho7,tok_chargeDeclined,400,We are unable to process payment with this credit card. Please try a different card,CARD_DECLINED,
+V28Hi3un7up77,V28Hi3Ho7,tok_chargeCustomerFail,400,We are unable to process payment with this credit card. Please try a different card,CARD_DECLINED,
+V28Hi3un7up77,V28Hi3Ho7,tok_cvcCheckFail,400,We are unable to process payment with this credit card. Please confirm your credit card and CVV numbers are valid or try a different card.,CARD_CVV_FAILURE,
+V28Hi3un7up77,V28Hi3Ho7,tok_avsZipFail,200,Success,SUCCESS,
+V28Hi3un7up77,V28Hi3Ho7,tok_avsFail,200,Success,SUCCESS,
+V28Hi3un7up77,V28Hi3Ho7,tok_riskLevelElevated,200,Success,SUCCESS,
+V28Hi3un7up77,V28Hi3Ho7,tok_avsUnchecked,200,Success,SUCCESS,
+V28Hi3un7up77,V28Hi3Ho7,tok_avsLine1Fail,200,Success,SUCCESS,
+V28Hi3un7up77,V28Hi3Ho7,tok_domesticPricing,200,Success,SUCCESS,
+V28Hi3un7up77,V28Hi3Ho7,tok_bypassPending,200,Success,SUCCESS,
+V28Hi3un7up77,V28Hi3Ho7,tok_createDispute,200,Success,SUCCESS,

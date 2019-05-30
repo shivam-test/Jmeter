@@ -1,0 +1,31 @@
+{
+  "bookingOptions": [
+    {
+      "bookingDate": "2019-06-01",
+     "productId": "V28Hi3un7up77",
+      "productOptionId": "V28Hi3Ho7",
+      "quantities": [
+        {
+          "ageBandId": 1,
+          "ageBandLabel": "ADULT",
+	  "quantity" : "1"          
+        },
+	{
+          "ageBandId": 2,
+          "ageBandLabel": "CHILD",
+          "quantity" : "0"
+        },
+        {
+          "ageBandId": 3,
+          "ageBandLabel": "INFANT",
+          "quantity" : "1"
+        },
+        {
+          "ageBandId": 4,
+          "ageBandLabel": "YOUTH",
+          "quantity" : "0"
+        }],
+	"traverllerDetails": null  
+    }
+  ]
+}

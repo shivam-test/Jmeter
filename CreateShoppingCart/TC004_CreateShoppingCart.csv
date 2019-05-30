@@ -1,0 +1,8 @@
+Response_Assertion,pp-message,pp-code
+400,Product option id is required,BAD_REQUEST
+400,Product option id is required,BAD_REQUEST
+400,Invalid product option id,INVALID_PRODUCT_OPTION_ID
+400,Invalid product option id,INVALID_PRODUCT_OPTION_ID
+
+
+

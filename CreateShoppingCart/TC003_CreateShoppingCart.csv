@@ -1,0 +1,14 @@
+Response_Assertion,pp-message,pp-code
+400,Product id is required,BAD_REQUEST
+400,Product id is required,BAD_REQUEST
+400,Invalid product id,INVALID_PRODUCT_ID
+400,We are unable to confirm availability for this product. Please try another tour or activity.,PRODUCT_NOT_AVAILABLE
+
+
+
+
+
+
+
+
+

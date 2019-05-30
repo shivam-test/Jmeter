@@ -1,0 +1,17 @@
+Response_Assertion,pp-message,pp-code
+200,Success,SUCCESS
+200,Success,SUCCESS
+200,Success,SUCCESS
+400,Pickup location Id required,PICKUP_LOCATION_ID_REQUIRED
+400,Pickup location Id required,PICKUP_LOCATION_ID_REQUIRED
+200,Success,SUCCESS
+400,Pickup location name required,PICKUP_LOCATION_NAME_REQUIRED
+400,Pickup location name required,PICKUP_LOCATION_NAME_REQUIRED
+200,Success,SUCCESS
+
+
+
+
+
+
+

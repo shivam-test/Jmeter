@@ -1,0 +1,14 @@
+Response_Assertion,pp-message,pp-code,partner-id
+401,Required partner-id not specified in the request,PARTNER_ID_NOT_FOUND,
+401,provided partner-id is invalid,INVALID_PARTNER_ID,abc
+
+
+
+
+
+
+
+
+
+
+

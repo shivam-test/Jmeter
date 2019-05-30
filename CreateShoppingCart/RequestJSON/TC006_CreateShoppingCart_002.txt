@@ -1,0 +1,11 @@
+{
+  "bookingOptions": [
+    {
+      "bookingDate": "2019-06-01",      
+      "productId": "V28Hi3EEu088vH",
+      "productOptionId": "V28Hi3a83Nq8U_8AH83",
+      "quantities": [],
+      "traverllerDetails": null
+    }
+  ]
+}

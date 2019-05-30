@@ -1,0 +1,10 @@
+Response_Assertion,pp-message,pp-code
+400,Age band id is required,BAD_REQUEST
+400,Age band id is required,BAD_REQUEST
+200,Success,SUCCESS
+200,Success,SUCCESS
+
+
+
+
+

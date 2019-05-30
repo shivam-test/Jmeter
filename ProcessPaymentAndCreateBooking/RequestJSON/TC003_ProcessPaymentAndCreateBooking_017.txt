@@ -1,0 +1,16 @@
+{
+  "customerId": "5500",
+  "email": "test@placepass.com",
+  "extendedAttributes": {},
+  "loyaltyAccount": {
+    "loyaltyAccountId":"5059",
+    "loyaltyPoints": 12345678,
+    "loyaltyProgramId": "MAR"
+  },
+  "partnerId": "84389150-8f48-43b7-ac6b-25c5f1fb955a",
+  "payment": {
+    "tokenizedNumber": "tok_visa"
+  },
+  "requestIp": "string",
+  "withInEEA": true
+}

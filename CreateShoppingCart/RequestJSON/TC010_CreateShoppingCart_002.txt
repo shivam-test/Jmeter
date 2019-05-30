@@ -1,0 +1,36 @@
+{
+  "bookingOptions": [
+    {
+      "bookingDate": "2019-06-01",
+      "productId": "V28Hi371nSnp7",
+      "productOptionId": "V28Hi3Tah8ONH",
+      "quantities": [
+        {
+          "ageBandId": 1,
+          "ageBandLabel": "ADULT",
+	  "quantity" : "1"          
+        },
+	{
+          "ageBandId": 2,
+          "ageBandLabel": "CHILD",
+          "quantity" : "0"
+        },
+        {
+          "ageBandId": 3,
+          "ageBandLabel": "INFANT",
+          "quantity" : "0"
+        },
+        {
+          "ageBandId": 4,
+          "ageBandLabel": "YOUTH",
+          "quantity" : "0"
+        },
+	{
+          "ageBandId": 5,
+          "ageBandLabel": "SENIOR",
+          "quantity" : "1"
+        }],
+	"traverllerDetails": null  
+    }
+  ]
+}
